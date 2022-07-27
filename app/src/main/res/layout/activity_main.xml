@@ -26,6 +26,17 @@
         android:layout_width="150sp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:text="Add Name"
+        android:textSize="25sp"
+        android:id="@+id/addName"
+        android:layout_marginTop="20sp"
+        android:background="#321B1B"
+        android:backgroundTint="#D61D1D"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="150sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:text="Print Name"
         android:textSize="25sp"
         android:id="@+id/printName"
